@@ -4,10 +4,10 @@ Gameplay: https://www.youtube.com/watch?v=rlRXBn2JLcg
 
 About: https://www.youtube.com/watch?v=qtrWSK3CuRw
 
-
+_____________
 
 Была применена обфускация основного кода 
-
+_____________
 
 Необходимо открыть файл "readme.ipynb" с помощью jupyter-lab или jupyter notebook для просмотра гиф-анимаций и скриншотов. 
 
