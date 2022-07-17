@@ -12,6 +12,7 @@ _____________
 Необходимо открыть файл "readme.ipynb" с помощью jupyter-lab или jupyter notebook для просмотра гиф-анимаций и скриншотов. 
 
 Если нет jupyter :
+_____________
 
 sudo apt update
 
@@ -32,9 +33,10 @@ jupyter-lab
 #or
 
 jupyter notebook
+_________________________
 
-
--скриншоты в директории screenshots 
+ЗАПУСК
+____________________
 
 sudo apt update
 
@@ -51,5 +53,6 @@ pip3 --version
 pip3 install pyjama
 
 python3 main.py
+______________
 
 ОСТРОЖНО В ИГРЕ ЕСТЬ ЗВУКИ
