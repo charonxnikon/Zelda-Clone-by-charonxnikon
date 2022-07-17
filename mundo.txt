@@ -1,0 +1,13 @@
+A BCD
+B A
+C A
+D AEF
+E A
+F GH
+H FI
+I GH
+G FJ
+J KG
+K JL
+L MK
+M L
